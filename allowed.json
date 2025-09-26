@@ -8,5 +8,10 @@
     "title": "T",
     "url": "t",
     "icon": "T"
+  },
+  {
+    "title": "Google",
+    "url": "https://google.com",
+    "icon": "https://raw.githubusercontent.com/Ron015/API-EXAMPLE/main/ICONS/1758851451516-SmartSelect_20250922-225758_Kiwi_Browser.png"
   }
 ]
