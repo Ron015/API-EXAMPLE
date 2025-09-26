@@ -3,5 +3,10 @@
     "title": "Hi",
     "url": "hi",
     "icon": "Hi"
+  },
+  {
+    "title": "Hello",
+    "url": "hell",
+    "icon": "Hello"
   }
 ]
