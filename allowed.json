@@ -2,6 +2,7 @@
   {
     "title": "Github",
     "url": "https://github.com",
+    "allowedDOM": "github.com",
     "icon": "https://raw.githubusercontent.com/Ron015/API-EXAMPLE/main/ICONS/1758910017006-IMG-20250920-WA0000.jpg"
   }
 ]
