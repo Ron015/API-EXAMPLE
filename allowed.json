@@ -4,5 +4,10 @@
     "url": "https://github.com",
     "allowedDOM": "github.com",
     "icon": "https://raw.githubusercontent.com/Ron015/API-EXAMPLE/main/ICONS/1758910017006-IMG-20250920-WA0000.jpg"
+  },
+  {
+    "title": "VVB",
+    "url": "https://vbb.mic.gov.in/",
+    "icon": "https://raw.githubusercontent.com/Ron015/API-EXAMPLE/main/ICONS/1759317047030-WhatsApp_Image_2025-03-08_at_10.25.37.jpeg"
   }
 ]
